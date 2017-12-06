@@ -1,6 +1,6 @@
 <h1> RGB Guessing Game </h1>
 
-<img src = "https://rawgit.com/Sdavletshina/RGBcolorGame/master/game.gif?raw=true">
+<img src = "https://rawgit.com/Sdavletshina/Guessing_Game/master/game.gif">
 
 <p>Project I built in The Web Development Bootcamp on Udemy taught by Cole Steele - https://www.udemy.com/the-web-developer-bootcamp</p>
 <h2> User Stories: </h2>
