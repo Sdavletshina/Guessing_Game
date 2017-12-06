@@ -1,1 +1,1 @@
-# sdavletshina.github.io
+#RGB Guessing Game https://sdavletshina.github.io/rgbGame.html
